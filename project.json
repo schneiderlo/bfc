@@ -1,0 +1,13 @@
+{
+  "name": "bfc",
+  "version": "1.0.0",
+  "cppStandard": "c++20",
+  "description": "A brain fuck compiler",
+  "author": "Loic Schneider",
+  "license": "mit",
+  "dependencies": {
+    "spdlog": "1.8.2",
+    "catch2": "2.13.4",
+    "fmt": "7.1.3"
+  }
+}
